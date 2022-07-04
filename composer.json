@@ -1,7 +1,7 @@
 {
     "name": "alladin/comment-module",
-    "description": "",
     "type": "laravel-module",
+    "description": "",
     "authors": [
         {
             "name": "Alladin Melico",
