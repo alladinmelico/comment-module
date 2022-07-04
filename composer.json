@@ -1,5 +1,5 @@
 {
-    "name": "alladin/comment",
+    "name": "alladin/comment-module",
     "description": "",
     "type": "laravel-module",
     "authors": [
